@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @21-tiller
-- 👀 I’m interested in software development.
+- 👀 I’m interested in software development, android proggramming,.
 - 🌱 I’m currently learning android programming.
 <!---
 21-tiller/21-tiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
